@@ -1,0 +1,23 @@
+{
+  "name": "vue2-test-medods",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "vue": "^2.7.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "@vitejs/plugin-vue2-jsx": "^1.0.2",
+    "prettier": "3.2.5",
+    "sass": "^1.71.1",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
